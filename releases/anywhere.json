@@ -1,4 +1,8 @@
 {
    "newVersion" : "0.1.0",
-   "apkUrl": "https://hthongdev.github.io/anywhere/releases/anywhere.apk"
+   "apkUrl": "https://hthongdev.github.io/anywhere/releases/anywhere.apk",
+   "changeLog": [
+      "test1",
+      "test2"
+   ]
 }
