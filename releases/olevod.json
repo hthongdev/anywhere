@@ -1,8 +1,7 @@
 {
-   "newVersion" : "0.3.0",
-   "apkUrl": "https://hthongdev.github.io/anywhere/releases/olevod_0.3.0.apk",
+   "newVersion" : "0.3.1",
+   "apkUrl": "https://hthongdev.github.io/anywhere/releases/olevod_0.3.1.apk",
    "changeLog": [
-      "test1",
-      "test2"
+      "Add name on show image"      
    ]
 }
